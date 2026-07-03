@@ -5,18 +5,7 @@
 🚀 Exploring full-stack development & machine learning  
 📈 Actively preparing for software engineering internships  
 
----
 
-## 🛠️ Technical Skills
-- **Languages:** Java, Python, C++, Shell Scripting (Linux)  
-- **Core CS:** Data Structures & Algorithms, Object-Oriented Design, Complexity Analysis, Computer Networks, Operating Systems  
-- **Systems:** Linux, Process Execution, Resource Management, Debugging, Performance Optimization  
-- **Backend:** Spring Boot, REST APIs, HTTP Protocol  
-- **Databases:** SQL (MySQL)
-- **Development Practices:** Git, Version Control, Agile Basics, Debugging, Unit Testing  
-- **Tools:** Docker (Basics), JUnit  
-
----
 
 ## 📂 Projects
 
@@ -49,7 +38,7 @@
 
 ## 🎓 Education
 - **B.Tech in Computer Science & Engineering** — SASTRA University, Thanjavur *(May 2027)*  
-  - CGPA: **8.3/10**   
+  - CGPA: **8.42/10**   
 
 ---
 
